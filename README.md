@@ -43,6 +43,12 @@ A beautiful, modern dark theme for the COSMIC™ Desktop featuring a sleek glass
 - **Corner Radius**: Uniform 12px rounded corners
 - **Window Gaps**: 3px inner, 8px outer
 
+> **⚠️ Note on Frosted Glass Effect**: The backdrop blur effect (frosted glass) requires compositor-level blur support in cosmic-comp, which is currently planned for COSMIC Epoch 2. Currently, you'll see transparency without the backdrop blur. This theme is future-ready with `is_frosted: true` enabled and will automatically gain the full frosted glass blur effect once it's implemented in the compositor.
+>
+> **References**:
+> - [cosmic-comp Issue #511 - Blur/Frosted Glass support](https://github.com/pop-os/cosmic-comp/issues/511)
+> - [cosmic-epoch Issue #604 - Blur options for transparencies](https://github.com/pop-os/cosmic-epoch/issues/604)
+
 ## Color Palette
 
 The theme includes a comprehensive color palette with:

